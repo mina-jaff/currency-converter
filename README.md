@@ -1,5 +1,6 @@
 Currency Converter
 This is a simple currency converter web application built with React and Jest as a testing framework.
+I used the free ExchangeRate-API for exchange rates
 
 Clone this repository to your local machine with this command:
 
